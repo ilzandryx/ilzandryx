@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=ASRlEL&color=9a9694&label=Fallen-Souls)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmmidyg77bheqevj3vuj4kjzum&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
  <img alt=image src=https://github.com/ASRlEL/ASRlEL/blob/23203b4ab900f93de833113f96ba4fea04124974/3255313d0ff46fe83c24e88c437b4828.webp />
 
  basic info just until i can be bothered 2 actually make everything pretty nd shit like that
